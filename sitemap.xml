@@ -12,4 +12,16 @@
 <image:title><![CDATA[Transision from Backend dev to DE]]></image:title>
 </image:image>
 </url>
+<url>
+<loc>https://kherashanu.com/pyspark-for-everyone-part-1-big-data-history-and-concepts-wip.html</loc>
+<lastmod>2024-08-12T00:02:25+05:30</lastmod>
+<image:image>
+<image:loc>https://kherashanu.com/media/posts/2/big_data_standard.png</image:loc>
+<image:title><![CDATA[Big data]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kherashanu.com/media/posts/2/vvv_band_standard-3.png</image:loc>
+<image:title><![CDATA[The VVV Band]]></image:title>
+</image:image>
+</url>
 </urlset>
