@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kherashanu.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kherashanu.com/</loc>
+</url>
+<url>
+<loc>https://kherashanu.com/pyspark-for-everyone-part-0-why-me.html</loc>
+<lastmod>2024-08-11T22:26:11+05:30</lastmod>
+<image:image>
+<image:loc>https://kherashanu.com/media/posts/1/pyspark_post_1_standard.png</image:loc>
+<image:title><![CDATA[Transision from Backend dev to DE]]></image:title>
+</image:image>
+</url>
+</urlset>
