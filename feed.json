@@ -9,23 +9,5 @@
         "name": "khera shanu"
     },
     "items": [
-        {
-            "id": "https://kherashanu.com/pyspark-for-everyone-part-0-why-me.html",
-            "url": "https://kherashanu.com/pyspark-for-everyone-part-0-why-me.html",
-            "title": "PySpark for Everyone - Part 0: Why Me?",
-            "summary": "Before diving into the world of big data and PySpark, let me&hellip;",
-            "content_html": "\n  <p>\n    Before diving into the world of big data and PySpark, let me introduce myself and explain why I believe I can guide you through these concepts effectively.<br><br>For nearly a decade, I worked primarily as a backend developer. Although I dabbled in various other roles, backend development always felt like my true calling. Interestingly, I began working with data engineering tasks before I even knew the term existed. My official transition to data engineering occurred while I was a Senior Software Engineer at a Silicon Valley company called Nextroll.<br><br>Our team at Nextroll had minimal \"typical\" backend work. We mostly fixed each other's bugs or added minor features. However, a sudden influx of data engineering tasks led our entire backend team to shift focus. For over a year, I performed data engineering duties without holding the official title.<br><br>Backend engineering started to feel monotonous to me. While scaling a product for a billion users in a cost-effective and resilient manner is undoubtedly cool and challenging, such opportunities are rare. I realized that data and AI represent the future. Data engineering seemed like the perfect avenue to combine my passion for backend development with a role more resilient to future changes. I am optimistic about AI's potential in the next decade, and I believe backend roles may become more specialized and automated. In contrast, data engineering is a field where ten different people might give you ten different definitions.\n  </p>\n\n  <p>\n    Nextroll faced tough times due to the deprecation of third-party cookies in Chrome, which led to many layoffs, including mine. I saw this as the perfect opportunity to officially switch to a data engineering role. Currently, I work remotely for a company that allows me to support BP (British Petroleum). Remote work is crucial for me.<br><br><b>Why am I, a relatively new data engineer, the right person to guide you?</b><br><br>I bring a unique perspective. Having worked in various environments and roles, I can view data engineering from a broader angle that many seasoned data engineers might not. I consider myself a competent programmer with a solid understanding of fundamental computer science principles and Python.<br><br>I know self-promotion can be off-putting, but it's essential for you to trust me as we embark on this journey together. <em>Shall we begin?</em>\n  </p>",
-            "image": "https://kherashanu.com/media/posts/1/pyspark_post_1_standard.png",
-            "author": {
-                "name": "khera shanu"
-            },
-            "tags": [
-                   "PySpark",
-                   "Data Engineering",
-                   "Apache Spark"
-            ],
-            "date_published": "2024-02-02T22:10:00+05:30",
-            "date_modified": "2024-08-11T22:26:11+05:30"
-        }
     ]
 }
