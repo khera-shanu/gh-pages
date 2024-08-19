@@ -3,7 +3,7 @@
     <title>kherashanu.com</title>
     <link href="https://kherashanu.com/feed.xml" rel="self" />
     <link href="https://kherashanu.com" />
-    <updated>2024-08-18T23:16:07+05:30</updated>
+    <updated>2024-08-19T11:41:12+05:30</updated>
     <author>
         <name>khera shanu</name>
     </author>
@@ -31,7 +31,6 @@
                 <p>Grab your favorite caffeinated beverage, because today we’re diving deep into the world of <code>dig</code> – the Domain Information Groper. Think of it as your digital detective tool, perfect for unmasking the secrets behind those cryptic domain names.</p>
 <p>Let’s make DNS queries as fun as scrolling through memes, shall we?</p>
 <h2 id="part-1-what-is-dig-and-why-should-you-care-">What is dig and Why Should You Care?</h2>
-<h3><img loading="lazy" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-EGFogg61O7hifSZi0IMNh3ht/user-1lGvx47o5lQHkVKb4tYHt09V/img-BHawokeP6mKTdbo0aWBK6fVG.png?st=2024-08-18T15%3A50%3A27Z&amp;se=2024-08-18T17%3A50%3A27Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-08-18T12%3A01%3A39Z&amp;ske=2024-08-19T12%3A01%3A39Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=oWcQ%2BtDGHDGzybPCH2MubCiX5zgneLbp%2BAWaTHCdurU%3D" data-is-external-image="true"></h3>
 <h3 id="sherlock-holmes-of-the-internet">Sherlock Holmes of the Internet</h3>
 <p>Imagine you’re Sherlock Holmes, but instead of solving crimes, you’re solving internet mysteries. Your Watson? The humble yet powerful <code>dig</code> command. Whether you’re a seasoned network sleuth or a curious newbie, <code>dig</code> is your magnifying glass for DNS queries. Ready? Let’s start our investigation!</p>
 <h3 id="what-is-dig-">What is dig?</h3>
@@ -147,8 +146,8 @@ dig @1.1.1.1 example.com</code></pre>
 <pre class="language-bash line-numbers"><code>dig example.com MX</code></pre>
 <p>Ensure the MX records are pointing to the correct mail servers and that they’re correctly prioritized.</p>
 <hr>
-<h2 id="part-4-automating-dig-with-scripts-and-final-thoughts">Automating dig with Scripts and Final Thoughts</h2>
-<p>Welcome back, DNS detectives! You’ve come a long way, from the basics to advanced features and real-world use cases. Now, it’s time to put the cherry on top by automating <code>dig</code> with scripts. Let’s make sure your DNS detective skills are always on point, even when you’re sipping your favorite coffee.</p>
+<h2 id="part-4-automating-dig-with-scripts-and-final-thoughts">Automating dig with Scripts</h2>
+<p>Now, it’s time to put the cherry on top by automating <code>dig</code> with scripts. Let’s make sure your DNS detective skills are always on point, even when you’re sipping your favorite coffee.</p>
 <h3 id="automation-using-dig-in-scripts">Automation: Using dig in Scripts</h3>
 <p>Automation is the secret sauce that turns good tech practices into great ones. By scripting <code>dig</code> commands, you can regularly monitor DNS records, check for changes, and troubleshoot issues without breaking a sweat.</p>
 <h4 id="example-monitoring-a-records">Example: Monitoring A Records</h4>
